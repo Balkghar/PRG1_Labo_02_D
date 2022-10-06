@@ -20,17 +20,27 @@ using namespace std;
 
 int main() {
     //déclaration des constantes
-    const double    priseEncharge = 5.0,
-                    suppParBagage = 2.6,
-                    tarifMinJour  = 1.0,
-                    tarifMinNuit  = 1.6;
+    const double    priseEncharge = 5.00,
+                    suppParBagage = 2.60,
+                    tarifMinJour  = 1.00,
+                    tarifMinNuit  = 1.60;
+    const int       debutJournee  = 8,
+                    finJournee    = 20;
 
     //déclaration des variables pour les saisies utilisateur
     int nbrBagage, distance, vitesse, depart;
 
 
+    //déclaration des totaux des différents services
+    double totalBagage, totalCourse;
+
     //affichage des tarifs à l'utilisateur
 
+
+    //entrée de l'utilisateur
+
+
+    //Affichage de l'addition
 
     return EXIT_SUCCESS;
 }
