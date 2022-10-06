@@ -31,5 +31,9 @@ int main() {
         vitesse,
         depart;
 
+
+    //affichage des tarifs à l'utilisateur
+    
+
     return EXIT_SUCCESS;
 }
