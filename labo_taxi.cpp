@@ -26,14 +26,11 @@ int main() {
                     tarifMinNuit  = 1.6;
 
     //déclaration des variables pour les saisies utilisateur
-    int nbrBagae,
-        distance,
-        vitesse,
-        depart;
+    int nbrBagage, distance, vitesse, depart;
 
 
     //affichage des tarifs à l'utilisateur
-    
+
 
     return EXIT_SUCCESS;
 }
