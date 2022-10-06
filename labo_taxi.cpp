@@ -19,7 +19,17 @@
 using namespace std;
 
 int main() {
-    
+    //déclaration des constantes
+    const double    priseEncharge = 5.0,
+                    suppParBagage = 2.6,
+                    tarifMinJour  = 1.0,
+                    tarifMinNuit  = 1.6;
+
+    //déclaration des variables pour les saisies utilisateur
+    int nbrBagae,
+        distance,
+        vitesse,
+        depart;
 
     return EXIT_SUCCESS;
 }
