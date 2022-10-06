@@ -40,7 +40,14 @@ int main() {
     //entrée de l'utilisateur
 
 
+    //calcul de l'addition
+
+
     //Affichage de l'addition
+
+
+    //Message de fin
+
 
     return EXIT_SUCCESS;
 }
