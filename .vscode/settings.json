@@ -1,6 +1,8 @@
 {
     "files.associations": {
         "*.tcc": "cpp",
-        "limits": "cpp"
+        "limits": "cpp",
+        "iomanip": "cpp",
+        "cmath": "cpp"
     }
 }
